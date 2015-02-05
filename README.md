@@ -1,5 +1,4 @@
 # console.loge
 
-this project's activity is a real bug not yet fixed in master.
+fix the actual bugs in this project: https://github.com/michelle/console.loge/issues
 
-issues here: https://github.com/michelle/console.loge
